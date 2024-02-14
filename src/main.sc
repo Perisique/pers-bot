@@ -1,6 +1,7 @@
 theme: /
 
     state: /hello
+        intent!: /привет
         q!: привет*
         q!: добр*
         q!: хай*
